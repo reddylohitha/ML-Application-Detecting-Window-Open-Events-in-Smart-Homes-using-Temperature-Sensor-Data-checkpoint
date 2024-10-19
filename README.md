@@ -1,4 +1,4 @@
-"# ML-Application-Detecting-Window-Open-Events-in-Smart-Homes-using-Temperature-Sensor-Data-checkpoint" 
+# ML-Application-Detecting-Window-Open-Events-in-Smart-Homes-using-Temperature-Sensor-Data-checkpoint 
 
 Smart homes, driven by IoT devices, are enhancing comfort and energy efficiency. A key aspect is detecting window open events to optimize heating, cooling, and ventilation systems. Traditional rule-based methods for detecting open windows, like temperature thresholds, often lack accuracy in real-world scenarios. 
 
